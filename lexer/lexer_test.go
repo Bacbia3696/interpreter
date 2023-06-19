@@ -1,8 +1,8 @@
 package lexer_test
 
 import (
-	"interpreter/lexer"
-	"interpreter/token"
+	"monkey/lexer"
+	"monkey/token"
 	"testing"
 )
 
